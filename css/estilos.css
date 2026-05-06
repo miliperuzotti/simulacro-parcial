@@ -1,0 +1,32 @@
+/*GENERALES*/
+#contenedor{
+	width: 100%;
+	max-width: 1200px;
+}
+
+*{box-sizing: border-box;}
+
+body {
+	background-image: url(../img/fondo.png);
+	background-repeat: repeat;
+	font-family: "Cormorant Garamond", serif;
+	font-size: x-large;
+	margin: 0 auto; /*centra el cuerpo*/
+}
+
+section{
+	background-color: white;
+	opacity: 0.9;
+}
+
+header{
+	background-color: white;
+}
+header h1{ /*descendiente para centrar titulo principal*/
+	text-align: center;
+}
+
+footer{
+	background-color: white;
+	text-align: right;
+}
