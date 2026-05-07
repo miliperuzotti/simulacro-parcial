@@ -8,7 +8,7 @@
 
 header{
 	background-color: white;
-	border: 6px solid blue;
+	border: 0.3rem solid blue;
 }
 
 header h1,header h2{ /*descendiente para centrar titulo principal*/
