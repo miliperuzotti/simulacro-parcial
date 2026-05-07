@@ -44,8 +44,8 @@ nav a:link{
 }
 
 /* visitado */
-nav a:visited{
-	background-color: white;
+nav a:visited {
+	background-color: #d6d6ff;
 	color: black;
 }
 
