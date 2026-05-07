@@ -39,13 +39,13 @@ nav a{
 
 /* normal */
 nav a:link{
-	background-color: white;
+	background-color: #d6d6ff;
 	color: black;
 }
 
 /* visitado */
 nav a:visited{
-	background-color: #d6d6ff;
+	background-color: white;
 	color: black;
 }
 
